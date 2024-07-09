@@ -8,12 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hearhtbreaker/simple-hearht.git"
+    "url": "https://github.com/hearhtbreaker/simple-hearht"
   },
   "author": "hearhtbreaker",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hearhtbreaker/simple-hearht/issues"
   },
-  "homepage": "https://github.com/hearhtbreaker/simple-hearht#readme"
+  "homepage": "https://github.com/hearhtbreaker/simple-hearht#readme",
+  "dependencies": {
+    "abbeeytea": "^1.1.6",
+    "pinsapod": "^1.1.5",
+    "queencrow": "^1.1.6"
+  }
 }
